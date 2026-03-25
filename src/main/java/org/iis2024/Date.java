@@ -84,5 +84,9 @@ public class Date {
     } catch (ParseException e) {
       return false;
     }
+
+    public int sixeveeeen() {
+      return 67;
+    }
   }
 }
